@@ -1,0 +1,240 @@
+{
+ "asof": "2026-11-15",
+ "threshold": 1.5,
+ "market_common_z": -1.09,
+ "products": {
+  "나이키 알파플라이": {
+   "mode": "score",
+   "score": -0.896,
+   "ratio": -1.49,
+   "status": "알림 없음",
+   "contrib": {
+    "러닝화": {
+     "z_adj": -0.54,
+     "weight": 0.46,
+     "part": -0.247
+    },
+    "마라톤화": {
+     "z_adj": -0.81,
+     "weight": 0.3,
+     "part": -0.243
+    },
+    "러닝": {
+     "z_adj": -1.07,
+     "weight": 0.38,
+     "part": -0.406
+    }
+   },
+   "own_z": -1.76,
+   "score_ratio": -1.49,
+   "own_ratio": -1.76,
+   "trigger": null,
+   "ing_ratio": null,
+   "cat_ratio": -1.53,
+   "layers": {
+    "cat": [
+     "러닝화",
+     "마라톤화",
+     "러닝"
+    ]
+   },
+   "pattern": "",
+   "last_event": "2026-08-24",
+   "event": {},
+   "competitors": {
+    "label": "대회용 러닝화",
+    "items": [
+     {
+      "name": "아식스 메타스피드",
+      "z": -1.11,
+      "pct": -28
+     },
+     {
+      "name": "아디제로 프로 4",
+      "z": -0.0,
+      "pct": -4
+     },
+     {
+      "name": "뉴발란스 1080",
+      "z": -1.61,
+      "pct": -34
+     }
+    ],
+    "median_z": -1.11,
+    "our_z": -1.76,
+    "hot": [],
+    "verdict": "경쟁·우리 모두 큰 변화 없음"
+   }
+  },
+  "나이키 에어포스": {
+   "mode": "score",
+   "score": 0.074,
+   "ratio": 0.85,
+   "status": "알림 없음",
+   "contrib": {
+    "운동화": {
+     "z_adj": -1.31,
+     "weight": 0.49,
+     "part": -0.639
+    },
+    "스니커즈": {
+     "z_adj": 1.55,
+     "weight": 0.46,
+     "part": 0.713
+    }
+   },
+   "own_z": 0.85,
+   "score_ratio": 0.01,
+   "own_ratio": 0.85,
+   "trigger": null,
+   "ing_ratio": null,
+   "cat_ratio": 0.07,
+   "layers": {
+    "cat": [
+     "운동화",
+     "스니커즈"
+    ]
+   },
+   "pattern": "",
+   "last_event": "2026-10-19",
+   "event": {},
+   "competitors": {
+    "label": "운동화",
+    "items": [
+     {
+      "name": "아디다스 삼바",
+      "z": 0.83,
+      "pct": 11
+     },
+     {
+      "name": "뉴발란스 530",
+      "z": -0.53,
+      "pct": -10
+     },
+     {
+      "name": "컨버스 척테일러",
+      "z": 2.51,
+      "pct": 43
+     }
+    ],
+    "median_z": 0.83,
+    "our_z": 0.85,
+    "hot": [
+     "컨버스 척테일러"
+    ],
+    "verdict": "경쟁·우리 모두 큰 변화 없음"
+   }
+  },
+  "나이키 페가수스 트레일": {
+   "mode": "score",
+   "score": -0.214,
+   "ratio": -1.22,
+   "status": "알림 없음",
+   "contrib": {
+    "러닝": {
+     "z_adj": -1.07,
+     "weight": 0.2,
+     "part": -0.214
+    }
+   },
+   "own_z": -1.22,
+   "score_ratio": -1.27,
+   "own_ratio": -1.22,
+   "trigger": null,
+   "ing_ratio": null,
+   "cat_ratio": -1.27,
+   "layers": {
+    "cat": [
+     "러닝"
+    ]
+   },
+   "pattern": "",
+   "last_event": "2026-10-13",
+   "event": {},
+   "competitors": {
+    "label": "트레일러닝화",
+    "items": [
+     {
+      "name": "살로몬 XT-6",
+      "z": -1.09,
+      "pct": -12
+     },
+     {
+      "name": "호카 마파테",
+      "z": 0.75,
+      "pct": 12
+     },
+     {
+      "name": "살로몬 스피드크로스",
+      "z": 5.27,
+      "pct": 207
+     }
+    ],
+    "median_z": 0.75,
+    "our_z": -1.22,
+    "hot": [
+     "살로몬 스피드크로스"
+    ],
+    "verdict": "경쟁·우리 모두 큰 변화 없음"
+   }
+  },
+  "나이키 에어리프트": {
+   "mode": "score",
+   "score": 0.349,
+   "ratio": 0.64,
+   "status": "알림 없음",
+   "contrib": {
+    "샌들": {
+     "z_adj": 0.85,
+     "weight": 0.41,
+     "part": 0.349
+    }
+   },
+   "own_z": -1.15,
+   "score_ratio": 0.64,
+   "own_ratio": -1.15,
+   "trigger": null,
+   "ing_ratio": null,
+   "cat_ratio": 0.64,
+   "layers": {
+    "cat": [
+     "샌들"
+    ]
+   },
+   "pattern": "",
+   "last_event": "2026-05-21",
+   "event": {},
+   "competitors": {
+    "label": "슬리퍼",
+    "items": [
+     {
+      "name": "아디다스 아딜렛",
+      "z": -0.55,
+      "pct": -16
+     },
+     {
+      "name": "뉴발란스 슬리퍼",
+      "z": 1.72,
+      "pct": 55
+     },
+     {
+      "name": "크록스 클래식",
+      "z": -0.96,
+      "pct": -24
+     }
+    ],
+    "median_z": -0.55,
+    "our_z": -1.15,
+    "hot": [
+     "뉴발란스 슬리퍼"
+    ],
+    "verdict": "경쟁·우리 모두 큰 변화 없음"
+   }
+  }
+ },
+ "reference": {
+  "나이키": 0.4,
+  "아디다스": 2.34,
+  "뉴발란스": -0.32
+ }
+}
