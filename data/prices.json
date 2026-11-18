@@ -119,7 +119,7 @@
      "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"type \": \"lowest \", \"bridgePageLink \": \"https://www.enuri.com/move/"
     },
     {
-     "shop": "SSG.COM",
+     "shop": "롯데ON",
      "price": 149000,
      "ship_text": "무료배송",
      "ship": 0,
@@ -139,7 +139,7 @@
      "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
     },
     {
-     "shop": "신세계몰",
+     "shop": "SSG.COM",
      "price": 149000,
      "ship_text": "무료배송",
      "ship": 0,
@@ -159,7 +159,7 @@
      "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
     },
     {
-     "shop": "롯데ON",
+     "shop": "신세계몰",
      "price": 149000,
      "ship_text": "무료배송",
      "ship": 0,
