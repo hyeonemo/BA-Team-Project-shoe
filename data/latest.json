@@ -1,20 +1,20 @@
 {
- "asof": "2026-11-17",
+ "asof": "2026-11-18",
  "threshold": 1.5,
- "market_common_z": -0.34,
+ "market_common_z": -0.08,
  "products": {
   "나이키 보메로": {
    "mode": "score",
-   "score": 0.501,
-   "ratio": 0.5,
+   "score": 0.863,
+   "ratio": 0.86,
    "status": "알림 없음",
    "contrib": {},
-   "own_z": 0.5,
+   "own_z": 0.86,
    "score_ratio": null,
-   "own_ratio": 0.5,
+   "own_ratio": 0.86,
    "trigger": null,
    "ing_ratio": null,
-   "cat_ratio": -1.84,
+   "cat_ratio": -2.01,
    "layers": {
     "cat": [
      "러닝화"
@@ -28,49 +28,49 @@
     "items": [
      {
       "name": "호카 본디",
-      "z": 0.51,
-      "pct": 9
+      "z": 0.04,
+      "pct": 0
      },
      {
       "name": "뉴발란스 1080",
-      "z": -1.62,
+      "z": -1.6,
       "pct": -34
      },
      {
       "name": "아식스 노바블라스트",
-      "z": -0.61,
+      "z": -0.6,
       "pct": -17
      }
     ],
-    "median_z": -0.61,
-    "our_z": 0.5,
+    "median_z": -0.6,
+    "our_z": 0.86,
     "hot": [],
     "verdict": "경쟁·우리 모두 큰 변화 없음"
    }
   },
   "나이키 에어포스": {
    "mode": "score",
-   "score": -0.565,
-   "ratio": 1.27,
+   "score": -0.256,
+   "ratio": 1.36,
    "status": "알림 없음",
    "contrib": {
     "운동화": {
-     "z_adj": -1.99,
+     "z_adj": -1.51,
      "weight": 0.46,
-     "part": -0.917
+     "part": -0.692
     },
     "스니커즈": {
-     "z_adj": 0.86,
+     "z_adj": 1.06,
      "weight": 0.41,
-     "part": 0.352
+     "part": 0.436
     }
    },
-   "own_z": 1.27,
-   "score_ratio": -0.93,
-   "own_ratio": 1.27,
+   "own_z": 1.36,
+   "score_ratio": -0.47,
+   "own_ratio": 1.36,
    "trigger": null,
    "ing_ratio": null,
-   "cat_ratio": -0.84,
+   "cat_ratio": -0.38,
    "layers": {
     "cat": [
      "운동화",
@@ -90,17 +90,17 @@
      },
      {
       "name": "뉴발란스 530",
-      "z": -0.27,
-      "pct": -7
+      "z": -0.19,
+      "pct": -5
      },
      {
       "name": "컨버스 척테일러",
-      "z": 2.4,
-      "pct": 42
+      "z": 2.39,
+      "pct": 43
      }
     ],
     "median_z": 0.9,
-    "our_z": 1.27,
+    "our_z": 1.36,
     "hot": [
      "컨버스 척테일러"
     ],
@@ -109,16 +109,16 @@
   },
   "나이키 페가수스 트레일": {
    "mode": "score",
-   "score": 2.224,
-   "ratio": 2.22,
-   "status": "새 사건",
+   "score": 3.133,
+   "ratio": 3.13,
+   "status": "진행(유지·확대)",
    "contrib": {},
-   "own_z": 2.22,
+   "own_z": 3.13,
    "score_ratio": null,
-   "own_ratio": 2.22,
+   "own_ratio": 3.13,
    "trigger": "own",
    "ing_ratio": null,
-   "cat_ratio": -1.12,
+   "cat_ratio": -1.26,
    "layers": {
     "cat": [
      "트레일러닝화"
@@ -128,57 +128,57 @@
    "last_event": "2026-11-17",
    "event": {
     "start": "2026-11-17",
-    "day_n": 1,
-    "peak": 2.22,
-    "peak_day": "2026-11-17",
-    "prev": null,
-    "phase": "시작"
+    "day_n": 2,
+    "peak": 3.13,
+    "peak_day": "2026-11-18",
+    "prev": 2.22,
+    "phase": "확대"
    },
    "competitors": {
     "label": "트레일러닝화",
     "items": [
      {
       "name": "살로몬 XT-6",
-      "z": -0.64,
-      "pct": -7
+      "z": -0.57,
+      "pct": -6
      },
      {
       "name": "호카 마파테",
-      "z": 0.58,
-      "pct": 9
+      "z": 0.12,
+      "pct": 1
      },
      {
       "name": "살로몬 스피드크로스",
-      "z": 6.11,
-      "pct": 321
+      "z": 6.05,
+      "pct": 348
      }
     ],
-    "median_z": 0.58,
-    "our_z": 2.22,
+    "median_z": 0.12,
+    "our_z": 3.13,
     "hot": [
      "살로몬 스피드크로스"
     ],
-    "verdict": "우리 상승, 경쟁도 다소 상승"
+    "verdict": "우리만 상승 (경쟁은 평소 수준)"
    }
   },
   "나이키 에어리프트": {
    "mode": "score",
-   "score": 0.011,
-   "ratio": -0.16,
+   "score": -0.119,
+   "ratio": 0.19,
    "status": "알림 없음",
    "contrib": {
     "샌들": {
-     "z_adj": 0.03,
+     "z_adj": -0.3,
      "weight": 0.4,
-     "part": 0.011
+     "part": -0.119
     }
    },
-   "own_z": -0.2,
-   "score_ratio": -0.16,
-   "own_ratio": -0.2,
+   "own_z": 0.19,
+   "score_ratio": -0.47,
+   "own_ratio": 0.19,
    "trigger": null,
    "ing_ratio": null,
-   "cat_ratio": -0.16,
+   "cat_ratio": -0.47,
    "layers": {
     "cat": [
      "샌들"
@@ -192,22 +192,22 @@
     "items": [
      {
       "name": "아디다스 아딜렛",
-      "z": -0.46,
+      "z": -0.48,
       "pct": -14
      },
      {
       "name": "뉴발란스 슬리퍼",
-      "z": 1.64,
-      "pct": 53
+      "z": 1.59,
+      "pct": 51
      },
      {
       "name": "크록스 클래식",
-      "z": -0.62,
-      "pct": -17
+      "z": -0.26,
+      "pct": -10
      }
     ],
-    "median_z": -0.46,
-    "our_z": -0.2,
+    "median_z": -0.26,
+    "our_z": 0.19,
     "hot": [
      "뉴발란스 슬리퍼"
     ],
@@ -216,8 +216,8 @@
   }
  },
  "reference": {
-  "나이키": 2.88,
+  "나이키": 3.71,
   "아디다스": 1.41,
-  "뉴발란스": -0.86
+  "뉴발란스": -0.93
  }
 }
