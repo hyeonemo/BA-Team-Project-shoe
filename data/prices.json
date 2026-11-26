@@ -1,12 +1,12 @@
 {
- "asof": "2026-11-25",
+ "asof": "2026-11-26",
  "items": {
   "나이키 보메로": {
    "ok": true,
    "url": "https://price.enuri.com/catalog/132795098",
    "title": "나이키 보메로 18 HM6803-101 남성 러닝화 [공식판매처]",
    "page_cut": false,
-   "n_sellers": 8,
+   "n_sellers": 6,
    "sellers": [
     {
      "shop": "현대Hmall",
@@ -15,8 +15,8 @@
      "ship": 0,
      "total": 90720,
      "ship_known": true,
-     "card": "KB카드",
-     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"type \": \"cardLowest \", \"cardInfo \":{ \"cardNameText \": \"KB카드 \", \"ca"
+     "card": "삼성카드",
+     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"type \": \"cardLowest \", \"cardInfo \":{ \"cardNameText \": \"삼성카드 \", \"ca"
     },
     {
      "shop": "현대Hmall",
@@ -67,26 +67,6 @@
      "ship_known": true,
      "card": "",
      "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
-    },
-    {
-     "shop": "SSG.COM",
-     "price": 112455,
-     "ship_text": "무료배송",
-     "ship": 0,
-     "total": 112455,
-     "ship_known": true,
-     "card": "",
-     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
-    },
-    {
-     "shop": "신세계몰",
-     "price": 132300,
-     "ship_text": "무료배송",
-     "ship": 0,
-     "total": 132300,
-     "ship_known": true,
-     "card": "",
-     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
     }
    ],
    "check": "최저 판매가가 페이지가 밝힌 최저가와 일치"
@@ -115,8 +95,8 @@
      "ship": 0,
      "total": 125980,
      "ship_known": true,
-     "card": "KB카드",
-     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"cardInfo \":{ \"cardNameText \": \"KB카드 \", \"cardPrice \":125980}, \"brid"
+     "card": "삼성카드",
+     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"cardInfo \":{ \"cardNameText \": \"삼성카드 \", \"cardPrice \":125980}, \"brid"
     },
     {
      "shop": "현대Hmall",
@@ -149,7 +129,7 @@
      "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
     },
     {
-     "shop": "신세계몰",
+     "shop": "롯데백화점",
      "price": 149000,
      "ship_text": "무료배송",
      "ship": 0,
@@ -169,7 +149,7 @@
      "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
     },
     {
-     "shop": "롯데백화점",
+     "shop": "SSG.COM",
      "price": 149000,
      "ship_text": "무료배송",
      "ship": 0,
@@ -179,7 +159,7 @@
      "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
     },
     {
-     "shop": "SSG.COM",
+     "shop": "신세계몰",
      "price": 149000,
      "ship_text": "무료배송",
      "ship": 0,
@@ -199,7 +179,7 @@
    "n_sellers": 2,
    "sellers": [
     {
-     "shop": "현대Hmall",
+     "shop": "더현대닷컴",
      "price": 84500,
      "ship_text": "무료배송",
      "ship": 0,
@@ -209,7 +189,7 @@
      "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"type \": \"lowest \", \"bridgePageLink \": \"https://www.enuri.com/move/"
     },
     {
-     "shop": "더현대닷컴",
+     "shop": "현대Hmall",
      "price": 84500,
      "ship_text": "무료배송",
      "ship": 0,
@@ -229,34 +209,14 @@
    "n_sellers": 7,
    "sellers": [
     {
-     "shop": "현대Hmall",
-     "price": 74960,
+     "shop": "롯데홈쇼핑",
+     "price": 80510,
      "ship_text": "무료배송",
      "ship": 0,
-     "total": 74960,
+     "total": 80510,
      "ship_known": true,
-     "card": "KB카드",
-     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"type \": \"cardLowest \", \"cardInfo \":{ \"cardNameText \": \"KB카드 \", \"ca"
-    },
-    {
-     "shop": "현대Hmall",
-     "price": 78900,
-     "ship_text": "무료배송",
-     "ship": 0,
-     "total": 78900,
-     "ship_known": true,
-     "card": "",
-     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"type \": \"lowest \", \"bridgePageLink \": \"https://www.enuri.com/move/"
-    },
-    {
-     "shop": "롯데ON",
-     "price": 84750,
-     "ship_text": "무료배송",
-     "ship": 0,
-     "total": 84750,
-     "ship_known": true,
-     "card": "",
-     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
+     "card": "삼성카드",
+     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"type \": \"cardLowest \", \"cardInfo \":{ \"cardNameText \": \"삼성카드 \", \"ca"
     },
     {
      "shop": "롯데홈쇼핑",
@@ -266,10 +226,20 @@
      "total": 84750,
      "ship_known": true,
      "card": "",
-     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
+     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"type \": \"lowest \", \"bridgePageLink \": \"https://www.enuri.com/move/"
     },
     {
      "shop": "롯데백화점",
+     "price": 84750,
+     "ship_text": "무료배송",
+     "ship": 0,
+     "total": 84750,
+     "ship_known": true,
+     "card": "",
+     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
+    },
+    {
+     "shop": "롯데ON",
      "price": 84750,
      "ship_text": "무료배송",
      "ship": 0,
@@ -294,6 +264,16 @@
      "ship_text": "무료배송",
      "ship": 0,
      "total": 122430,
+     "ship_known": true,
+     "card": "",
+     "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
+    },
+    {
+     "shop": "현대Hmall",
+     "price": 127780,
+     "ship_text": "무료배송",
+     "ship": 0,
+     "total": 127780,
      "ship_known": true,
      "card": "",
      "after": ", \"quickDeliveryInfo \":{ \"isQuickDelivery \":false, \"quickDeliveryText \": \" \"}, \"reward \":[], \"bridgePageLink \": \"https://www.enuri.com/move/Redirect.jsp?cmd=mov"
